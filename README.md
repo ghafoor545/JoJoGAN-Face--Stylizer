@@ -71,7 +71,7 @@ JoJoGAN-Face-Stylizer/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/jojogan-face-stylizer.git
+git clone https://github.com/ghafoor545/JoJoGAN-Face--Stylizer.git
 cd jojogan-face-stylizer
 ```
 
