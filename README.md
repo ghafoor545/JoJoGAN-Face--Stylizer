@@ -72,7 +72,7 @@ JoJoGAN-Face-Stylizer/
 
 ```bash
 git clone https://github.com/ghafoor545/JoJoGAN-Face--Stylizer.git
-cd JoJoGAN-Face-Stylizer 
+cd JoJoGAN-Face--Stylizer 
 ```
 
 ### 2. Install dependencies
