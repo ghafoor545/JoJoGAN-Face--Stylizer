@@ -1,0 +1,8 @@
+*.pt
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.env
+*.zip
+models/dlibshape_predictor_68_face_landmarks.dat
+stylized_results/
